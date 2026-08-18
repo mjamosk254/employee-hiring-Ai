@@ -1,0 +1,4 @@
+TensorFlow
+NumPy
+streamlit
+scikit-learn
